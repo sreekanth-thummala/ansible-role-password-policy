@@ -13,7 +13,7 @@ None.
 Available variables are listed below, along with default values (see `defaults/main.yml`):
 
 # password complexity
-`minlen: 8
+`minlen: 12
 lcredit: -1
 ucredit: -1
 dcredit: -1
