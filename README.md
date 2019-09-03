@@ -38,7 +38,7 @@ None.
       vars_files:
         - vars/main.yml
       roles:
-        - { role: riponbanik.password_policy }
+        - { role: tsrik007.password_policy }
 
 *Inside `vars/main.yml`*:
 
@@ -50,4 +50,4 @@ MIT / BSD
 
 ## Author Information
 
-This role was created in 2018 by [Ripon Banik ](https://www.linkedin.com/in/ripon-banik-79956b23/)
+This role was created in 2019 by [Sreekanth Thummala](https://www.linkedin.com/in/sreekanth-thummala-b5659950/)
