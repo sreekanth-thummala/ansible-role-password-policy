@@ -5,7 +5,7 @@ password_history_file: ''
 password_complexity_file: ''
 
 # password complexity
-minlen: 8
+minlen: 12
 lcredit: -1
 ucredit: -1
 dcredit: -1
@@ -15,7 +15,7 @@ ocredit: -1
 remember: 12
 
 # password expiration
-PASS_MAX_DAYS: 60
+PASS_MAX_DAYS: 9999
 PASS_MIN_DAYS: 0
-PASS_MIN_LEN: 8
+PASS_MIN_LEN: 12
 PASS_WARN_AGE: 7
