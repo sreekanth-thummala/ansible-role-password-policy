@@ -2,7 +2,7 @@
 dependencies: []
 galaxy_info:
   role_name: password-policy
-  author: ripoinbanik
+  author: tsrik007
   description: Password Policy Enforcement
   company: Lyrics Pvt Ltd
   license: "license (BSD, MIT)"
