@@ -23,7 +23,7 @@ ocredit: -1`
 remember: 12
 
 # password expiration
-PASS_MAX_DAYS: 9999
+PASS_MAX_DAYS: 99999
 PASS_MIN_DAYS: 0
 PASS_MIN_LEN: 8
 PASS_WARN_AGE: 7
