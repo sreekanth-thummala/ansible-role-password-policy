@@ -1,6 +1,6 @@
 Ansible role to manage password complexity, history and expiration
 
-[![Build Status](https://travis-ci.org/tsrik007/ansible-role-password-policy.svg?branch=master)](https://travis-ci.org/tsrik007/ansible-role-password-policy)
+[![Build Status](https://travis-ci.org/thummalas/ansible-role-password-policy.svg?branch=master)](https://travis-ci.org/thummalas/ansible-role-password-policy)
 
 It will install the required package and configure policy files to ensure password complexity, history and expiration are met on Nix systems for local users
 
